@@ -1,0 +1,28 @@
+@import '../../index.scss';
+
+.form {
+  display: flex;
+  flex-direction: column;
+  > * {
+    margin-bottom: $m-size;
+  }
+}
+.form__error {
+  margin: 0 0 $m-size 0;
+  font-style: italic;
+}
+.text-input {
+  border: 1px solid #cacccd;
+  height: 50px;
+  padding: $s-size;
+  font-size: $font-size-large;
+  font-weight: 300;
+}
+.select {
+  @extend .text-input;
+  
+}
+.textarea {
+  @extend .text-input;
+  height: 10rem;
+}

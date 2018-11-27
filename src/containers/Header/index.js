@@ -1,5 +1,10 @@
 import { connect } from 'react-redux';
-import Header, { headerActions } from '../../components/Header';
+import Header from '../../components/Header/Header';
+import * as headerActions from './actions/logout';
+
+export { 
+  headerActions,
+};
 
 const mapDispatchToProps = (dispatch) => ({
   startLogout: () => dispatch(headerActions.startLogout())

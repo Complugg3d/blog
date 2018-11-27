@@ -31,3 +31,8 @@ button:disabled {
   max-width: 90rem;
   padding: 0 $m-size;
 }
+
+.top-spacing {
+  margin-bottom: $l-size;
+  padding: $l-size 0;
+}

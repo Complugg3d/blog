@@ -6,8 +6,8 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { firebase } from './firebase/firebase';
 import configureStore from './store';
-import { loginActions } from './components/LoginPage';
-import { headerActions } from './components/Header';
+import { loginActions } from './containers/LoginPage';
+import { headerActions } from './containers/Header';
 
 const store = configureStore();
 
