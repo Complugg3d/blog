@@ -1,11 +1,18 @@
 {
   "summary": {
     "title": "Blog",
-    "owner": "Erick vega"
+    "owner": "Erick vega",
+    "description": "A blog"
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Threat",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Erick Vega"
   }
 }
