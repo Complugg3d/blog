@@ -20,8 +20,8 @@
                 "height": 80
               },
               "position": {
-                "x": 70,
-                "y": 70
+                "x": 90,
+                "y": 110
               },
               "angle": 0,
               "id": "532e32bc-dc78-4436-b7f5-89730b83dc4d",
@@ -46,8 +46,8 @@
                 "height": 80
               },
               "position": {
-                "x": 50,
-                "y": 500
+                "x": 90,
+                "y": 400
               },
               "angle": 0,
               "id": "6de4bb5c-2869-4d53-a80d-5df88146bf40",
@@ -72,8 +72,8 @@
                 "height": 80
               },
               "position": {
-                "x": 470,
-                "y": 160
+                "x": 550,
+                "y": 60
               },
               "angle": 0,
               "id": "c9f9cc0b-6c72-40e1-9733-8a33fce3f2c3",
@@ -84,7 +84,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "store 2"
+                  "text": "BDD_SQL_Credenciales&\nProductos"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -98,8 +98,8 @@
                 "height": 80
               },
               "position": {
-                "x": 480,
-                "y": 380
+                "x": 510,
+                "y": 400
               },
               "angle": 0,
               "id": "720d0446-5b81-4d01-9770-e43bda62329c",
@@ -126,7 +126,7 @@
               },
               "position": {
                 "x": 810,
-                "y": 250
+                "y": 190
               },
               "angle": 0,
               "id": "86bcf820-000e-498f-97ad-a8754fac06f9",
@@ -137,7 +137,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process 4"
+                  "text": "Web Server"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
