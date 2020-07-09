@@ -8,7 +8,7 @@
     "contributors": [],
     "diagrams": [
       {
-        "title": "Threat",
+        "title": "Threat Modeling",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
@@ -20,8 +20,8 @@
                 "height": 80
               },
               "position": {
-                "x": 20,
-                "y": 80
+                "x": 70,
+                "y": 70
               },
               "angle": 0,
               "id": "532e32bc-dc78-4436-b7f5-89730b83dc4d",
@@ -72,8 +72,8 @@
                 "height": 80
               },
               "position": {
-                "x": 490,
-                "y": 80
+                "x": 470,
+                "y": 160
               },
               "angle": 0,
               "id": "c9f9cc0b-6c72-40e1-9733-8a33fce3f2c3",
@@ -98,19 +98,20 @@
                 "height": 80
               },
               "position": {
-                "x": 420,
-                "y": 450
+                "x": 480,
+                "y": 380
               },
               "angle": 0,
               "id": "720d0446-5b81-4d01-9770-e43bda62329c",
               "z": 4,
               "hasOpenThreats": false,
+              "isALog": true,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "store 3"
+                  "text": "BDD_NoSql_logs"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -124,8 +125,8 @@
                 "height": 100
               },
               "position": {
-                "x": 870,
-                "y": 240
+                "x": 810,
+                "y": 250
               },
               "angle": 0,
               "id": "86bcf820-000e-498f-97ad-a8754fac06f9",
